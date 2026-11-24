@@ -1,0 +1,5 @@
+[project]
+name = "aperture"
+version = "0.1.0.dev0"
+description = "Diagnóstico de redes y autoalojamiento web autorizado"
+readme = "README.md"

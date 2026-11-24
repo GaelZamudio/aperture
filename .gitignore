@@ -1,0 +1,19 @@
+# Instrucciones locales de colaboración
+AGENTS.md
+
+# Entorno virtual local de Python
+.venv/
+
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+
+# Configuración local que puede contener secretos
+.env
+.env.*
+!.env.example
+
+# Resultados de empaquetado
+build/
+dist/
+*.egg-info/
